@@ -1,0 +1,6 @@
+schema_version: 1
+name: terraform
+version: v1.0
+description: "Installs latest terraform" 
+execute:
+- script: install.sh
