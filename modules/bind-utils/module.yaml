@@ -1,0 +1,6 @@
+schema_version: 1
+name: bind-utils
+version: v1.0
+description: "Installs bind-utils (dig and nslookup)" 
+execute:
+- script: install.sh
