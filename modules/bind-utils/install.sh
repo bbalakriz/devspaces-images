@@ -1,1 +1,1 @@
-# Install nslookup and dig
+yum install -y bind-utils
