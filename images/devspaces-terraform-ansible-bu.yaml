@@ -1,6 +1,6 @@
 schema_version: 1
 
-name: &name "devspaces-terraform"
+name: &name "devspaces-terraform-ansible-bu"
 version: &version "1.0"
 description: "Developer image for Red Hat OpenShift Dev Spaces with terraform, ansible and bind-utils"
 
